@@ -63,7 +63,7 @@ https://drive.google.com/file/d/1thH9BZbL5Gv0vYnkR6q1u1wcV6O5pU6_/view?usp=shari
 - **Focus Area**: Machine Learning in Environmental Monitoring  
 
 ---
-## 🙋‍♀️ Author
+##  Author
 
 **Divya Ramnani**  
 B.Tech – Data Science, IPS Academy  
@@ -71,6 +71,6 @@ Aspiring AI/ML engineer passionate about building solutions for sustainability a
 
 ---
 
-## ✅ Note
+##  Note
 
 This project was implemented using Google Colab to enable easy experimentation, interactive model training, and streamlined deployment.
